@@ -1,0 +1,15 @@
+C:\Programação\DIO\Dynamics365\bin\Debug\net7.0\Dynamics365.exe
+C:\Programação\DIO\Dynamics365\bin\Debug\net7.0\Dynamics365.deps.json
+C:\Programação\DIO\Dynamics365\bin\Debug\net7.0\Dynamics365.runtimeconfig.json
+C:\Programação\DIO\Dynamics365\bin\Debug\net7.0\Dynamics365.dll
+C:\Programação\DIO\Dynamics365\bin\Debug\net7.0\Dynamics365.pdb
+C:\Programação\DIO\Dynamics365\obj\Debug\net7.0\Dynamics365.csproj.AssemblyReference.cache
+C:\Programação\DIO\Dynamics365\obj\Debug\net7.0\Dynamics365.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\DIO\Dynamics365\obj\Debug\net7.0\Dynamics365.AssemblyInfoInputs.cache
+C:\Programação\DIO\Dynamics365\obj\Debug\net7.0\Dynamics365.AssemblyInfo.cs
+C:\Programação\DIO\Dynamics365\obj\Debug\net7.0\Dynamics365.csproj.CoreCompileInputs.cache
+C:\Programação\DIO\Dynamics365\obj\Debug\net7.0\Dynamics365.dll
+C:\Programação\DIO\Dynamics365\obj\Debug\net7.0\refint\Dynamics365.dll
+C:\Programação\DIO\Dynamics365\obj\Debug\net7.0\Dynamics365.pdb
+C:\Programação\DIO\Dynamics365\obj\Debug\net7.0\Dynamics365.genruntimeconfig.cache
+C:\Programação\DIO\Dynamics365\obj\Debug\net7.0\ref\Dynamics365.dll
