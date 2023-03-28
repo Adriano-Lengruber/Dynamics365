@@ -1,0 +1,15 @@
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.exe
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.deps.json
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.runtimeconfig.json
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.dll
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.pdb
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfo.cs
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.dll
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\obj\Debug\net7.0\refint\ExemploExplorando.dll
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.pdb
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.genruntimeconfig.cache
+C:\Programação\DIO\Dynamics365\Propriedades_Metodos_e_Construtores _CSharp\ExemploExplorando\obj\Debug\net7.0\ref\ExemploExplorando.dll

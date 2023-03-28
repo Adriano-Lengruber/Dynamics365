@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programação\\DIO\\Dynamics365\\Propriedades_Métodos_e_Construtores _CSharp\\ExemploExplorando\\ExemploExplorando.csproj": {}
+    "C:\\Programação\\DIO\\Dynamics365\\Propriedades_Metodos_e_Construtores _CSharp\\ExemploExplorando\\ExemploExplorando.csproj": {}
   },
   "projects": {
-    "C:\\Programação\\DIO\\Dynamics365\\Propriedades_Métodos_e_Construtores _CSharp\\ExemploExplorando\\ExemploExplorando.csproj": {
+    "C:\\Programação\\DIO\\Dynamics365\\Propriedades_Metodos_e_Construtores _CSharp\\ExemploExplorando\\ExemploExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programação\\DIO\\Dynamics365\\Propriedades_Métodos_e_Construtores _CSharp\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectUniqueName": "C:\\Programação\\DIO\\Dynamics365\\Propriedades_Metodos_e_Construtores _CSharp\\ExemploExplorando\\ExemploExplorando.csproj",
         "projectName": "ExemploExplorando",
-        "projectPath": "C:\\Programação\\DIO\\Dynamics365\\Propriedades_Métodos_e_Construtores _CSharp\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectPath": "C:\\Programação\\DIO\\Dynamics365\\Propriedades_Metodos_e_Construtores _CSharp\\ExemploExplorando\\ExemploExplorando.csproj",
         "packagesPath": "C:\\Users\\Adriano\\.nuget\\packages\\",
-        "outputPath": "C:\\Programação\\DIO\\Dynamics365\\Propriedades_Métodos_e_Construtores _CSharp\\ExemploExplorando\\obj\\",
+        "outputPath": "C:\\Programação\\DIO\\Dynamics365\\Propriedades_Metodos_e_Construtores _CSharp\\ExemploExplorando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adriano\\AppData\\Roaming\\NuGet\\NuGet.Config"
