@@ -4,10 +4,16 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace ExemploExplorando.Models
-{
+{   
     public class Pessoa
-    {
-        public string Nome { get; set; }
+    {   
+        private string _nome;
+        public string Nome
+        { 
+            get; 
+            
+            set; 
+        }
         public int Idade { get; set; }
 
         public void Apresentar()
