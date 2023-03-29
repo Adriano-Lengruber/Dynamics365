@@ -8,8 +8,10 @@ namespace ExemploExplorando.Models
     public class Pessoa
     {   
         private string _nome;
+        private string _sobrenome;
         private int _idade;
 
+               
         public string Nome
         { 
             get => _nome.ToUpper();
@@ -23,6 +25,23 @@ namespace ExemploExplorando.Models
                 _nome = value;
             }
         }
+
+        public string Sobrenome 
+        { 
+            get => _sobrenome.ToUpper(); 
+            
+            set
+            {
+                if (value == "")
+                {
+                    throw new ArgumentException("O Sobrenome não pode ser vazio!");
+                }
+
+                _sobrenome = value; 
+            }  
+        }
+
+        public string NomeCompleto  => $"{Nome} {Sobrenome}";
         public int Idade 
         { 
             get => _idade;
@@ -40,7 +59,7 @@ namespace ExemploExplorando.Models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Nome}, \n Idade: {Idade}");
+            Console.WriteLine($"Nome Completo: {NomeCompleto}, \n Idade: {Idade}");
         }
 
     }
