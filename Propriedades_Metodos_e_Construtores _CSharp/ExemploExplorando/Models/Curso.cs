@@ -20,6 +20,15 @@ namespace ExemploExplorando.Models
             return Alunos.Remove(aluno);
         }
 
+        public void ListarAluno()
+        {
+            Console.WriteLine($"Alunos do Curso de {Nome}");
+            foreach (Pessoa aluno in Alunos)
+            {
+                Console.WriteLine(aluno.NomeCompleto);
+            }
+        }
+
 
 
         public int ObterQtdAlunosMatriculados()
